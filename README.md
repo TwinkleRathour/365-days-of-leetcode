@@ -44,7 +44,7 @@ Solve one LeetCode problem every single day for 365 days using **Java** — buil
 ## 🤝 Connect
 
 - GitHub: [TwinkleRathour](https://github.com/TwinkleRathour)
-- LinkedIn: [Twinkle Rathour](https://linkedin.com/in/Twinkle Rathour)
+- LinkedIn: [Twinkle Rathour](https://www.linkedin.com/in/twinkle-rathour-607bb6330/)
 - LeetCode: [Twinkle_Rathour](https://leetcode.com/Twinkle_Rathour)
 
 ---
