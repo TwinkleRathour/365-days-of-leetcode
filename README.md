@@ -4,7 +4,6 @@
 
 ![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
-![Progress](https://img.shields.io/badge/Progress-0%2F365-blue?style=flat)
 
 ---
 
@@ -45,7 +44,7 @@ Solve one LeetCode problem every single day for 365 days using **Java** — buil
 ## 🤝 Connect
 
 - GitHub: [TwinkleRathour](https://github.com/TwinkleRathour)
-- LinkedIn: [Twinkle Rathour](www.linkedin.com/in/twinkle-rathour-607bb6330)
+- LinkedIn: [Twinkle Rathour](https://linkedin.com/in/Twinkle Rathour)
 - LeetCode: [Twinkle_Rathour](https://leetcode.com/Twinkle_Rathour)
 
 ---
