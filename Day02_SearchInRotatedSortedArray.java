@@ -9,7 +9,7 @@
  * Date: 26-03-2026
  */
 
-public class SearchInRotatedSortedArray {
+public class Day02_SearchInRotatedSortedArray {
 
     public int search(int[] nums, int target) {
         int left = 0;
@@ -42,7 +42,7 @@ public class SearchInRotatedSortedArray {
 
     // ── Test Cases ──────────────────────────────────────────────
     public static void main(String[] args) {
-        SearchInRotatedSortedArray sol = new SearchInRotatedSortedArray();
+        Day02_SearchInRotatedSortedArray sol = new Day02_SearchInRotatedSortedArray();
 
         int[] nums1 = {4, 5, 6, 7, 0, 1, 2};
         System.out.println(sol.search(nums1, 0));   // Expected: 4
