@@ -7,7 +7,7 @@
  * Space Complexity: O(1)
  */
 
-public class Day02_ContainsDuplicate {
+public class Day11_ContainsDuplicate {
 
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
@@ -23,7 +23,7 @@ public class Day02_ContainsDuplicate {
     }
 
     public static void main(String[] args) {
-        Day02_ContainsDuplicate solution = new Day02_ContainsDuplicate();
+        Day11_ContainsDuplicate solution = new Day11_ContainsDuplicate();
 
         boolean r1 = solution.containsDuplicate(new int[]{1, 2, 3, 1});
         System.out.println("Test 1: " + r1); // true
